@@ -1,4 +1,4 @@
-# Machine Learning & Deep Learning Tutorials Awesome
+#Machine Learning & Deep Learning Tutorials 
 This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this list.
 
 If you want to contribute to this list, please read Contributing Guidelines.
