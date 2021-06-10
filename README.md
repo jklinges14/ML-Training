@@ -2193,39 +2193,4 @@ For a collection of Data Science Tutorials using Python, please refer to this li
 About
 machine learning and deep learning tutorials, articles and other resources
 
-ujjwalkarn.github.io/machine-learning-tutorials
-Topics
-list machine-learning awesome deep-neural-networks deep-learning neural-network neural-networks awesome-list machinelearning deeplearning deep-learning-tutorial
-Resources
- Readme
-License
- CC0-1.0 License
-Releases
-No releases published
-Packages
-No packages published
-Contributors 32
-@ujjwalkarn
-@guillaume-chevalier
-@justmarkham
-@manashmandal
-@EtienneT
-@vict0rsch
-@amitshekhariitbhu
-@allthroughthenight
-@ethen8181
-@rohduggal
-@ThatAndresV
-+ 21 contributors
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
