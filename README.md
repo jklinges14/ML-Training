@@ -3,7 +3,9 @@ Curated list of R tutorials for Data Science, NLP and Machine Learning.
 
 Curated list of Python tutorials for Data Science, NLP and Machine Learning.
 
-read://https_machinelearningknowledge.ai/?url=https%3A%2F%2Fmachinelearningknowledge.ai%2Fnatural-language-processing-github-projects-to-inspire-you%2F%23DeepMoji_8211_1k__8211_249
+read://https_machinelearningknowledge.ai/?url=https%3A%2F%2Fmachinelearningknowledge.ai%2F
+
+natural-language-processing-github-projects-to-inspire-you%2F%23DeepMoji_8211_1k__8211_249
 Contents
 Introduction
 Interview Resources
